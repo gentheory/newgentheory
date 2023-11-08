@@ -1,0 +1,8 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'NEWGENTHEORY'
+theme = 'PaperMod'
+
+[params.homeInfoParams]
+Title = 'WELCOME TO MY SITE'
+Content = 'Can the Special Theory of Relativity be wrong? On these pages, I would like to present my calculations concerning the Lorentz transformation and related matters.'
